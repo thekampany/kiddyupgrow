@@ -11,12 +11,12 @@ import glob
 import os.path
 import sqlite3
 
-path1 = '/home/pi/Storage/Pictures/maandfotos/floris/*.*'
-path2 = '/home/pi/Storage/Pictures/maandfotos/willemijn/*.*'
-path3 = '/home/pi/Storage/Pictures/maandfotos/emilie/*.*'
-folder1 = 'floris'
-folder2 = 'willemijn'
-folder3 = 'emilie'
+path1 = '/home/pi/maandfotos/naam1/*.*'
+path2 = '/home/pi/maandfotos/naam2/*.*'
+path3 = '/home/pi/maandfotos/naam3/*.*'
+folder1 = 'naam1'
+folder2 = 'naam2'
+folder3 = 'naam3'
 file1 = ''
 file2 = ''
 file3 = ''
